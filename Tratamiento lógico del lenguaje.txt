@@ -1,0 +1,15 @@
+    Gramáticas: Jerarquía de Chomsky: Las gramáticas formales, como las definidas por Noam Chomsky, se utilizan para describir la estructura y la sintaxis del lenguaje. La jerarquía de Chomsky clasifica las gramáticas en diferentes niveles de complejidad, como las gramáticas regulares, las gramáticas libres de contexto, etc.
+
+    Análisis Léxico: El análisis léxico implica la identificación y descomposición de un texto en unidades léxicas básicas, como palabras, símbolos o tokens. Esto es el primer paso en el procesamiento del lenguaje natural.
+
+    Análisis Sintáctico: El análisis sintáctico se enfoca en la estructura gramatical de las oraciones y cómo las palabras se combinan para formar oraciones válidas. Puede involucrar la construcción de árboles de análisis sintáctico o la generación de estructuras gramaticales.
+
+    Análisis Semántico: El análisis semántico se refiere a la asignación de significado a las oraciones o al texto. Se busca comprender el significado y las relaciones semánticas entre las palabras y las partes del discurso.
+
+    Gramática Causal Definida: Se refiere a la utilización de gramáticas que incluyen reglas causales o de acción, lo que permite el análisis de oraciones que describen eventos, acciones o relaciones de causa y efecto.
+
+    Ambigüedad: La ambigüedad es un desafío común en el procesamiento del lenguaje natural, ya que una oración puede tener múltiples interpretaciones. Abordar la ambigüedad es importante para comprender el significado real de una oración.
+
+    Inducción Gramatical: La inducción gramatical implica el proceso de aprender o inferir automáticamente las reglas gramaticales a partir de ejemplos de lenguaje natural. Esto es útil en la creación de modelos de procesamiento del lenguaje.
+
+Estos temas son fundamentales para la comprensión y el procesamiento del lenguaje natural desde una perspectiva más lógica y estructurada, lo que es esencial en aplicaciones como la traducción automática, la generación de texto, la extracción de información y el análisis de sentimiento, entre otros.
